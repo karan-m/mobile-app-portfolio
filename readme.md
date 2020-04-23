@@ -3,7 +3,7 @@ Project screenshots 👍| ⭐
 ## Contents
 
 - [GitApp](#gitapp)
-- [CircleCI R](#circleci)
+- [CircleCI](#circleci)
 
 ## GitApp
 
@@ -25,7 +25,7 @@ Client app for the Bitbucket cloud.
     <img src="https://github.com/karanexe/screenshots/blob/master/gitapp/10.png" alt="Screen3" width="200"/>
 </p>
 
-## CircleCI R
+## CircleCI
 
 Client app for managing pipelines and builds from circleci.
 
