@@ -7,7 +7,7 @@ Project screenshots 👍| ⭐
 
 ## GitApp
 
-Client app for the Bitbucket cloud.
+Client app for Bitbucket cloud.
 
 - [Google Play Store](https://play.google.com/store/apps/details?id=com.lh.gitapp.bitbucket)
 - [Apple App Store](https://apps.apple.com/us/app/gitapp-for-bitbucket/id1499512663?ls=1)
