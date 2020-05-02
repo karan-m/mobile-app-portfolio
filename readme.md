@@ -30,7 +30,7 @@ Client app for the Bitbucket cloud.
 Client app for managing pipelines and builds from circleci.
 
 - [Google Play Store](https://play.google.com/store/apps/details?id=com.lh.circleciremote)
-- [Apple App Store](https://apps.apple.com/us/app/gitapp-for-bitbucket/id1499512663?ls=1)
+- [Apple App Store](https://apps.apple.com/us/app/circleci-remote/id1509496092)
 
 <p align="center">
     <img src="https://github.com/karanexe/screenshots/blob/master/circleci/1.png" alt="Screen1" width="200"/>
