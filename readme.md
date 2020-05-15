@@ -38,3 +38,13 @@ Client app for managing pipelines and builds from circleci.
     <img src="https://github.com/karanexe/screenshots/blob/master/circleci/3.png" alt="Screen3" width="200"/>
     <img src="https://github.com/karanexe/screenshots/blob/master/circleci/5.png" alt="Screen3" width="200"/>
 </p>
+
+
+## StackRemote
+
+Native app for viewing/answering questions on stackexchange and its sub sites.
+
+<p align="center">
+    <img src="https://github.com/karanexe/screenshots/blob/master/stack_app_1.png" alt="Screen1" width="200"/>
+    <img src="https://github.com/karanexe/screenshots/blob/master/stack_app_2.png" alt="Screen2" width="200"/>
+</p>
