@@ -1,4 +1,4 @@
-Project screenshots 👍| ⭐
+Project screenshots 👍 ⭐
 
 ## Contents
 
