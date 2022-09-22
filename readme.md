@@ -12,6 +12,8 @@ Project screenshots 👍 ⭐
 
 Client app for Bitbucket cloud.
 
+> Built with Flutter
+
 - [Google Play Store](https://play.google.com/store/apps/details?id=com.lh.gitapp.bitbucket)
 - [Apple App Store](https://apps.apple.com/us/app/gitapp-for-bitbucket/id1499512663?ls=1)
 
@@ -32,6 +34,8 @@ Client app for Bitbucket cloud.
 
 Client app for managing pipelines and builds from circleci.
 
+> Built with Flutter
+
 - [Google Play Store](https://play.google.com/store/apps/details?id=com.lh.circleciremote)
 - [Apple App Store](https://apps.apple.com/us/app/circleci-remote/id1509496092)
 
@@ -45,6 +49,8 @@ Client app for managing pipelines and builds from circleci.
 ## StartSafe - Paperless audits
 
 B2B application to help companies perform audit and inspection on the go
+
+> Built with ReactNative
 
 - app store links na (in development)
 
@@ -71,6 +77,8 @@ B2B application to help companies perform audit and inspection on the go
 
 Learning app to help prepare for Life In UK test
 
+> Built with Flutter
+
 - app store links na (in development)
 
 <p align="center">
@@ -95,6 +103,8 @@ Learning app to help prepare for Life In UK test
 ## StackRemote
 
 Native app for viewing/answering questions on stackexchange and its sub sites.
+
+> Built with Android (Java)
 
 <p align="center">
     <img src="https://github.com/karanexe/screenshots/blob/master/stack_app_1.png" alt="Screen1" width="200"/>
